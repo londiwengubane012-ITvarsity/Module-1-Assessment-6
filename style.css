@@ -1,0 +1,15 @@
+.gallery img{
+    width: 30%;
+}
+table   {
+    width: 100%;
+    font-family: Helvetica, sans-serif;
+    border-width: 1px;
+    border-collapse: collapse;
+        
+}
+h1  {
+    color:darkturquoise;
+    font-family: sans-serif;
+   }
+                          
